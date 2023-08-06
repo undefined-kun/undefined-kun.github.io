@@ -50,21 +50,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我的首个小说散文集</title>
-    <url>/my-first-literally-collection/</url>
-    <content><![CDATA[<p>近来有写中短篇小说散文集的打算，并构思了大致框架，预计包含五个篇目，此处将把五个篇目的链接整合起来。</p>
-<p>另：本想给这个中短篇小说散文集系列起个名，无奈没有想法，等到时候更完了，还请众位读者指教。</p>
-]]></content>
-      <categories>
-        <category>文学</category>
-      </categories>
-      <tags>
-        <tag>小说</tag>
-        <tag>散文</tag>
-        <tag>文学作品集</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>各科错题汇总及常用答题模板整理</title>
     <url>/my-error-book/</url>
     <content><![CDATA[<p>考虑到笔者有常常不经意间记住答案的缺点，本文不采用传统的错题集模式进行汇总，而是<strong>分析错因并指出做题时应为之事</strong>；</p>
@@ -96,6 +81,21 @@
         <tag>生物</tag>
         <tag>竞赛</tag>
         <tag>信息学竞赛</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的首个小说散文集</title>
+    <url>/my-first-literally-collection/</url>
+    <content><![CDATA[<p>近来有写中短篇小说散文集的打算，并构思了大致框架，预计包含五个篇目，此处将把五个篇目的链接整合起来。</p>
+<p>另：本想给这个中短篇小说散文集系列起个名，无奈没有想法，等到时候更完了，还请众位读者指教。</p>
+]]></content>
+      <categories>
+        <category>文学</category>
+      </categories>
+      <tags>
+        <tag>小说</tag>
+        <tag>散文</tag>
+        <tag>文学作品集</tag>
       </tags>
   </entry>
 </search>
